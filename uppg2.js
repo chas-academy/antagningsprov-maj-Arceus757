@@ -1,4 +1,3 @@
-
 function uppg2() {
    // Skriv din kod här
    const myName = 'Hampus'
