@@ -10,5 +10,3 @@ function uppg3() {
   }
   
  module.exports = { uppg3 };
-
- 
